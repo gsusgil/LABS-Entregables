@@ -1,0 +1,130 @@
+html
+*{
+ margin: 0;
+ padding: 0;
+ font-size: 10px;
+ font-family: "roboto","roboto+condence";
+ line-height: 3.5;
+ font-weight: 300;
+ 
+}
+/* etiquet para eliminar los bullets point de la ul */
+ul{
+    list-style:none;
+    margin: 0;
+    padding:0;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+    font-family: "roboto","roboto+condence";
+}
+h1{
+    font-size: 9em;
+    text-align: center;
+    text-transform: uppercase;
+}
+h2{
+    font-size: 5em;
+    text-align: center;
+    text-transform: uppercase;
+}
+h3{
+    font-size: 4.2em;
+    text-align: center;
+    line-height: 1em;
+}
+h4{
+    font-size: 1.5em;
+    letter-spacing: 0,4px;
+    line-height: 1em;
+}
+h5{
+    font-size: 1.2em;
+    line-height: 1em;
+}
+.nav-bar{
+   background-color: rgb(25, 33, 41);
+}
+.nav-bar a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 2em;
+  }
+
+.header{
+    margin-top: 0;
+    background-image: url('https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/ironhack-skydive-background.jpg');
+    background-position: 0,0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+  }
+h2{
+    color: white;
+    text-shadow: #020819 8px -20px 9px;
+
+}
+.quote{
+    font-size: 2.5em;
+}
+#general-information{
+    background-color:rgb(25, 33, 41);
+    color: white;
+}
+.text{
+    font-size: 2em;
+    font-weight: 100;
+    text-align: center;
+}
+
+.link-btn{
+    background-color: rgb(67, 163, 230);
+    color: white;
+    font-family: "roboto condence";
+    font-size: 2em;
+    letter-spacing: 0.5px;
+    text-align: center;
+    text-decoration: none;
+   } 
+.service-box{
+    font-size: 1.7em;
+    text-align: center;   
+}
+.service-box img{
+    width: 125px;
+}
+.team{
+    background-color:rgb(25, 33, 41);
+    color: white;
+}
+.section-text{
+    font-size: 1.9em;
+    text-align: center;
+}
+.member-name{
+    font-size: 1,5em;
+    font-weight: 700;
+}
+.team img{
+    width: 250px;
+    height: 180px;
+}
+.footer{
+    background-color:rgb(25, 33, 41) ;
+    color: white;
+    text-align: center;
+}
+.address{
+    font-style: normal;
+    font-size: 0.8em;
+    
+}
+.footer a{
+    text-decoration: none;
+    color:rgb(67, 163, 230) ;
+}
+  
