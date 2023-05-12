@@ -1,0 +1,141 @@
+/* Lineas Generales */
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap");
+*{
+    margin: 0;
+    
+}
+body {
+    margin: 0 auto;
+    padding: 0;
+    background-color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+}
+/* Barra de navecaion */
+.nav-bar {
+   width: 100%;
+   padding: 10px;
+   position: fixed;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   padding-block: 10px;
+   background-color: white;
+}
+.nav-bar img{
+    width: 250px;
+    margin-right: 50px;
+}
+.nav-bar ul {
+    font-size: 1.5rem;
+    list-style: none;
+    display: flex;
+    gap: 1em;
+    margin-right: 25px;
+}
+
+/* section 2 */
+
+.header {
+    height: 800px;
+    background-image: url("landing.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 20px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ 
+
+}
+h1{
+    font-size: 4rem;
+    display: flex;
+    text-align: center center;
+    margin-bottom: 1rem;
+}
+
+.header p {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    text-align: center;
+    font-style: 1,5rem ;
+}
+
+/* section 3 */
+
+.general-information h2 {
+    text-align: center;
+    text-underline-offset: 0,5rem;
+    text-decoration: underline #00b172;
+    font-size: 2rem;
+    margin-top: 1rem;
+}
+
+.card img{
+    width: 30%;
+}
+
+.card {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center center;
+    align-items: center;
+}
+.container {
+    display: flex;
+    padding: 2rem 0;
+}
+
+.card h3 {
+    color: #00b172;
+}
+ 
+.card p {
+    max-width: 200px;
+    text-align: center;
+    font-weight: 100;
+    font-size: 1,5rem;
+}
+ .screenshot {
+    height: 700px;
+    background-color: #00b172;
+    background-image: url("spotify-icon-white.png");
+    background-position: center center;
+    background-size: 120px;
+    background-repeat: no-repeat;
+    margin: 0 2rem;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+ }
+
+ .screenshot img {
+    width: 22%;
+    margin: 0px;
+ }
+ .text-container h3{
+    font-size: 2.2rem;
+    text-decoration: underline white;
+    text-underline-offset: 1rem;
+    margin-bottom: 2.5rem;
+ }
+
+ .text-container h4 {
+    font-weight: 600;
+    font-size: 1.7rem;
+    margin-bottom: 1rem;
+ }
+
+.text-container p{
+    font-weight: 100;
+    font-size: 1.3rem;
+    max-width: 230px;
+    line-height: 0,5rem;
+    margin-bottom: 1.5rem;
+}

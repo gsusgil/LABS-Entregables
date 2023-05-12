@@ -27,7 +27,7 @@ h1{
     text-align: center;
     text-transform: uppercase;
 }
-h2{
+.header h2{
     font-size: 5em;
     text-align: center;
     text-transform: uppercase;
