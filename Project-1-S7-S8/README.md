@@ -121,7 +121,7 @@ En resumen, la sección "construido con" es una excelente manera de brindar a lo
 
 - [ ] Tarea no completada
 - [x] Tarea Completada
-- [x] Ej - Crear archivo .js "section projects"
+- [x] Ej - Crear archivo .js "section index"
 
 
 #### Day Three
