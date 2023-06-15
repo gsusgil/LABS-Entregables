@@ -48,7 +48,7 @@ let cardsProjects = (finalCards) => {
   });
 };
 let linkForIndex = (i) => {
-  let route = ["./project.html"];
+  let route = ["./project.html"] ;
   return route[i];
 };
 

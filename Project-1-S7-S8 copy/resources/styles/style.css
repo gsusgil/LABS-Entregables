@@ -5,9 +5,11 @@
 }
 
 * {
-  margin: 0;
+  margin: 0 auto;
   padding: 0;
+  background-color: #faf7f7;
   box-sizing: border-box;
+  font-size: 16px;
 }
 
 body {
@@ -29,8 +31,22 @@ body {
 /* Your CSS code goes here */
 
 /* ------------------------------ Navbar ------------------------------ */
+.nav-bar {
+  width: 100%;
+   padding: 10px;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   padding-block: 10px;
+   padding-top: 90px;
+}
 
-/* Your CSS code goes here */
+.nav-bar > ul {
+  font-size: 1.5rem;
+    list-style: none;
+    display: flex;
+    gap: 1em;
+}
 
 /* ------------------------------ Header ------------------------------ */
 

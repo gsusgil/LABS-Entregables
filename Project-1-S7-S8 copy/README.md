@@ -140,13 +140,44 @@ En resumen, la sección "construido con" es una excelente manera de brindar a lo
 
 - [ ] Tarea no completada
 - [x] Tarea Completada
-- [ ] Ej - Crear archivo .css "index/projects/contac us"
-- [ ] Ej - subir proyecto a vercel o netlify
+- [x] Ej - terminar .js de "contac us"
+
 
 
 #### Day Five
 
 ###### DOMINGO 28, Mayo 2023
+- [ ] Tarea no completada
+- [x] Tarea Completada
+- [x] Ej - esctructura de "index en figma / mobile"
+
+#### Day Five
+
+###### LUINES 29, Mayo 2023
+- [ ] Tarea no completada
+- [x] Tarea Completada
+- [x] Ej - esctructura de "index en figma / desktop"
+- [ ] Ej - Comenzar .css de index
+
+#### Day Five
+
+###### MARTES 30, Mayo 2023
+- [ ] Tarea no completada
+- [x] Tarea Completada
+- [ ] Ej - continuar con .css de index / projects
+
+#### Day Five
+
+###### MIERCOLES 31, Mayo 2023
+- [ ] Tarea no completada
+- [x] Tarea Completada
+- [ ] Ej - continuar con .css de projects / contact
+
+###### JUEVES 1, Junio 2023
+- [ ] Tarea no completada
+- [x] Tarea Completada
+- [ ] Ej - continuar con .css de projects / contact
+- [ ] Ej - hacer presenrtacion 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
