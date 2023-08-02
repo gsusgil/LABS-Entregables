@@ -67,7 +67,7 @@ const contacts = ref([]);
 const contactsArray = ref([]);
 const loading = ref(true);
 
-//------Iteracion 1 ------------
+//------Iteracion 1 -------------
 
 const computedContacts = computed(() => {
   const contactIds = contactsArray.value.map((contact) => contact.id);
